@@ -17,6 +17,14 @@ omarchy theme update
 omarchy theme set sumi-day
 ```
 
+## Removing
+
+Switch to another theme first (for example with `omarchy theme switcher`), then remove Sumi Day:
+
+```sh
+omarchy theme remove sumi-day
+```
+
 ## Wallpapers
 
 Plum branch (default), ensō, ridges and koi. Cycle through them from the Omarchy menu under Style → Background.
